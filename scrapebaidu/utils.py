@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+# Copyright (c) 2022 Vitaly Yakovlev <vitaly@optinsoft.net>
+#
+# scrapebaidu - scrapes baidu search results and resolves target links.
+
 from xmlrpc.client import boolean
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver

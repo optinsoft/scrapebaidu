@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+# Copyright (c) 2022 Vitaly Yakovlev <vitaly@optinsoft.net>
+#
+# scrapebaidu - scrapes baidu search results and resolves target links.
+
 from scrapebaidu import *
 
 import yaml

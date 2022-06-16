@@ -1,0 +1,25 @@
+search_list:
+  - book
+  - food
+  - hotel
+
+search_pages: 3
+
+inurl: false
+inurl_filter: false
+indomain_filter: false
+
+resolve_links: true
+
+whois_hosts: true
+
+# proxy_list:
+#  - 127.0.0.1:8888
+
+browser_timeout: 10
+
+headless: false
+
+lists_dir: ./lists
+
+log_level: debug
